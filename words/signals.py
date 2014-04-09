@@ -5,9 +5,9 @@ def relate_words(sender, **kwargs):
         instance = kwargs['instance']
         #todos los sinonimos son traducciones de la traduccion
         if instance.synonym.exists():
-            for translate in instance.translate.all():
-                for synonym in instance.synonym.all():
-                    translate.translate.add(synonym)
+            for translate in instance.translate.all():#recorre todas las traducciones de la palabra
+                for synonym in instance.synonym.all():#recorre todos los sinonimos de la palabra
+                    translate.translate.add(synonym) #asigna a los sinonimos como traducciones de la traduccion
     pass
 
 m2m_changed.connect(relate_words)
