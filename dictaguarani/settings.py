@@ -41,6 +41,9 @@ INSTALLED_APPS = (
     'words',
     'languages',
     'typewords',
+    'userprofiles',
+    'usercomments',
+    'django_extensions',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -88,13 +91,20 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATICFILES_FINDERS = (
+"""STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
     'django.contrib.staticfiles.finders.FileSystemFinder',
-)
+)"""
+
+#backends
+"""AUTHENTICATION_BACKENDS = (
+    'userprofiles.backends.EmailBackend', #al realizar este backend, se inutiliza el registro de usuarios del administrador
+)"""
 
 
 from django.conf.global_settings import TEMPLATE_CONTEXT_PROCESSORS as TCP
 TEMPLATE_CONTEXT_PROCESSORS = TCP + (
     "django.core.context_processors.request",
 )
+
+GRAPPELLI_ADMIN_TITLE = 'dictaguarani'

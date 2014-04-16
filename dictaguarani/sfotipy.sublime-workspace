@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"render",
+				"render_to_response	import"
+			],
+			[
+				"get_ob",
+				"get_object_or_404	(imported, instance)"
+			],
+			[
+				"get",
+				"get_object_or_404	function"
+			],
+			[
+				"Htt",
+				"HttpResponse	import"
+			],
+			[
+				"Fiel",
+				"FileField	import"
+			],
+			[
+				"Fi",
+				"FileField	import"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"vie",
+				"views	import"
+			],
+			[
+				"trac",
+				"traduccion"
+			],
+			[
+				"tra",
+				"traduccion_set"
+			],
+			[
+				"trad",
+				"traduccion1"
+			],
+			[
+				"m2m",
+				"m2m_changed	(imported, instance)"
+			],
+			[
+				"m2",
+				"m2m_changed	statement"
+			],
+			[
+				"in",
+				"instance	param"
+			],
+			[
+				"traducc",
+				"traduccion_set"
+			],
+			[
+				"pos",
+				"post_save	statement"
+			],
+			[
+				"inte",
+				"intercambiar_traduccion	function"
+			],
+			[
+				"con",
+				"connect	function"
+			],
+			[
+				"pre",
+				"pre_save	statement"
+			],
+			[
+				"trau",
+				"traduccion"
+			],
+			[
+				"Mof",
+				"ModelForm	ModelForm"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"Tra",
+				"TraduccionInline	class"
+			],
+			[
+				"max",
+				"max_length	None"
+			],
+			[
+				"Many",
+				"ManyToManyRel	import"
+			],
+			[
+				"Uso",
+				"UsoPalabraInline	class"
+			],
+			[
+				"Us",
+				"UsoPalabra	(imported, instance)"
+			],
+			[
+				"__subcl",
+				"__subclasses__	function"
+			],
+			[
+				"chai",
+				"chained_model_field	None"
+			],
+			[
+				"Idioma",
+				"IdiomaFilter	(global, class)"
+			],
+			[
+				"Pala",
+				"PalabraFrom	import"
+			],
+			[
+				"Mod",
+				"ModelForm	ModelForm"
+			],
+			[
+				"Mo",
+				"ModelForm	ModelForm"
+			],
+			[
+				"make",
+				"make_ajax_form	function"
+			],
+			[
+				"Mode",
+				"ModelAdmin	import"
+			],
+			[
+				"Idio",
+				"IdiomaAdmin	(global, class)"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"For",
+				"ForeignKey	import"
+			],
+			[
+				"Date",
+				"DateTimeField	class"
+			],
+			[
+				"ejer",
+				"ejercitario"
+			],
+			[
+				"eje",
+				"ejercitario"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"eti",
+				"etiquetas"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"etiq",
+				"etiqueta"
+			],
+			[
+				"et",
+				"etiquetas"
+			],
+			[
+				"Rel",
+				"RelacionEtiqueta"
+			],
+			[
+				"rela",
+				"relacion"
+			],
+			[
+				"relacion",
+				"relacion_etiqueta"
+			],
+			[
+				"recom",
+				"recomendado_id"
+			],
+			[
+				"si",
+				"size_video"
+			],
+			[
+				"size",
+				"size_image"
+			],
+			[
+				"tipo",
+				"tipo_recurso"
+			],
+			[
+				"cal",
+				"calendarios"
+			],
+			[
+				"cale",
+				"calendario"
+			],
+			[
+				"se",
+				"seccion"
+			],
+			[
+				"foreig",
+				"foreign_key"
+			],
+			[
+				"etique",
+				"etiqueta_id"
+			],
+			[
+				"rel",
+				"relaciones_etiquetas"
+			],
+			[
+				"tumbn",
+				"thumbnail"
+			],
+			[
+				"thumb",
+				"thumbnail"
+			],
+			[
+				"report",
+				"report-comment"
+			],
+			[
+				"comenti",
+				"comentario"
+			],
+			[
+				"mai",
+				"mail_body"
+			],
+			[
+				"coment",
+				"comentario_id"
+			],
+			[
+				"DI",
+				"DIROOT"
+			],
+			[
+				"comentar",
+				"comentarios"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"seccio",
+				"seccion_id"
+			],
+			[
+				"array",
+				"array_id"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"calen",
+				"calendario"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/sfotipy/settings.py",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/tracks/admin.py",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/tracks/models.py",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/albums/models.py",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/albums/admin.py",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/artists/admin.py",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/tracks/views.py",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/tracks/templates/track_index.html",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/sfotipy/urls.py",
+		"/home/jose/djangoprojects/Sfoti.py/sfotipy/artists/models.py",
+		"/home/jose/Descargas/config(1).php",
+		"/home/jose/Descargas/config.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Model/Usuario.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/Component/perfil_auth.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/UsuariosController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Model/Articulo.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Articulos/form.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/ArticulosController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Articulos/add.ctp",
+		"/home/jose/djangoprojects/dictaguarani/manage.py",
+		"/home/jose/djangoprojects/dictaguarani/dictaguarani/settings.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/forms.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/admin.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/models.py",
+		"/home/jose/djangoprojects/dictaguarani/dictaguarani/urls.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/script.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/tests.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/views.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/urls.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/templates/diccionario/index.html",
+		"/home/jose/Documentos/www/pruebas/bootflat/documentation.html",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/static/diccionario/style.css",
+		"/home/jose/Documentos/www/pruebas/bootflat/css/site.min.css",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/script/script.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/signals.py",
+		"/home/jose/djangoprojects/django-basic-apps/setup.py",
+		"/home/jose/djangoprojects/library/library/settings.py",
+		"/home/jose/djangoprojects/basic/setup.py",
+		"/home/jose/Documentos/deswecdj/Archivos Base/misitioweb/blog/models.py",
+		"/home/jose/Documentos/deswecdj/Archivos Base/misitioweb/blog/admin.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/lookups.py",
+		"/home/jose/djangoprojects/dictaguarani/diccionario/__init__.py",
+		"/home/jose/djangoprojects/dictaguarani/palabras/__init__.py",
+		"/home/jose/djangoprojects/dictaguarani/palabras/models.py",
+		"/home/jose/Documentos/www/aplicacionrefactor/php/funciones.php",
+		"/home/jose/Descargas/PHPExcel-develop/Examples/01pharSimple.php",
+		"/home/jose/Descargas/PHPExcel-develop/Examples/01simple.php",
+		"/home/jose/Documentos/www/pruebas/ods-php/ods.php",
+		"/home/jose/Documentos/www/aplicacionrefactor/php/helpers/helper.php",
+		"/home/jose/Documentos/www/auladigital/descargar.php",
+		"/home/jose/Documentos/www/auladigital/multimedia/busqueda.php",
+		"/home/jose/Documentos/www/auladigital/php/funciones.php",
+		"/home/jose/Documentos/www/auladigital/tags/index.php",
+		"/home/jose/Documentos/www/auladigital/php/clases/etiqueta.class.php",
+		"/home/jose/Documentos/www/auladigital/php/clases/aplicacion.class.php",
+		"/home/jose/Documentos/www/auladigital/articulos/index.php",
+		"/home/jose/Documentos/www/auladigital/calendarios/search.php",
+		"/home/jose/Documentos/www/auladigital/calendarios/index.php",
+		"/home/jose/Documentos/www/auladigital/noticias/noticia.php",
+		"/home/jose/Documentos/www/auladigital/php/clases/seccion.class.php",
+		"/home/jose/Documentos/www/auladigital/articulos/articulo.php",
+		"/home/jose/Documentos/www/auladigital/config.php",
+		"/home/jose/Documentos/www/auladigital/php/clases/calendario.class.php",
+		"/home/jose/Documentos/www/auladigital/php/clases/multimedia.class.php",
+		"/home/jose/Documentos/www/auladigital/odes/galeria.php",
+		"/home/jose/Documentos/www/auladigital/busquedas.php",
+		"/home/jose/Documentos/www/auladigital/php/clases/view_multimedia.class.php",
+		"/home/jose/Documentos/www/auladigital/multimedia/search.php",
+		"/home/jose/Documentos/www/auladigital/css/normal.css",
+		"/home/jose/Documentos/www/auladigital/php/clases/sonido.class.php",
+		"/home/jose/Documentos/www/auladigital/comentarios/facebook_comentarios.php",
+		"/home/jose/Documentos/www/auladigital/comentarios/comentarios.php",
+		"/home/jose/Documentos/www/auladigital/includes/header.php",
+		"/home/jose/Documentos/www/auladigital/comentarios/facebook_comments.php",
+		"/home/jose/Documentos/www/auladigital/comentarios/reportar.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/ComentariosController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Comentarios/index.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Comentarios/view.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Ejercitarios/view.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Usuarios/login.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Articulos/view.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Articulos/index.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Layouts/login.ctp",
+		"/home/jose/Documentos/www/auladigital/comentarios/form_reporte.php",
+		"/home/jose/Documentos/www/auladigital/includes/footer.php",
+		"/home/jose/Documentos/www/auladigital/registros/form.php",
+		"/home/jose/Documentos/www/auladigital/contactos/reportar_error.php",
+		"/home/jose/Documentos/www/auladigital/php/clases/comentario.class.php",
+		"/home/jose/Documentos/www/auladigital/css/interna.css",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Comentarios/respuestas.ctp",
+		"/home/jose/Documentos/www/auladigital/css/listado.css",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Model/Comentario.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Model/Persona.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Comentarios/reportes.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Layouts/default.ctp",
+		"/home/jose/Documentos/www/auladigital/comentarios/validar.php",
+		"/home/jose/Documentos/www/auladigital/comentarios/form.php",
+		"/home/jose/Documentos/www/auladigital/comentarios/no_autenticado.php",
+		"/home/jose/Documentos/www/auladigital/login.php",
+		"/home/jose/Documentos/www/auladigital/.htaccess",
+		"/home/jose/Documentos/www/auladigital/auth/logout.php",
+		"/home/jose/Documentos/www/auladigital/registros/registro.php",
+		"/home/jose/Documentos/www/auladigital/php/sessions.php",
+		"/home/jose/Documentos/www/auladigital/contactos/contacto.php",
+		"/home/jose/Documentos/www/auladigital/contactos/form.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Model/Seccion.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/NoticiasController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Noticias/index.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/EjercitariosController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Ejercitarios/index.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/AppController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/ImagenesController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/SonidosController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/Controller/VideosController.php",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Imagenes/index.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Sonidos/index.ctp",
+		"/home/jose/Documentos/www/auladigital/adminabc/app/View/Videos/index.ctp",
+		"/home/jose/Documentos/www/auladigital/anuncios/posicion_a.php",
+		"/home/jose/Documentos/www/auladigital/sphinx/sphinxapi.php",
+		"/home/jose/Documentos/www/auladigital/busquedas/search.php",
+		"/home/jose/Documentos/www/auladigital/anuncios/posicion_b.php",
+		"/home/jose/Documentos/www/auladigital/anuncios/posicion_c.php",
+		"/home/jose/Documentos/www/auladigital/js/eplanning.js",
+		"/home/jose/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jose/Documentos/www/auladigital/sphinx/prueba.php",
+		"/home/jose/Documentos/www/auladigital/sphinx/secciones_delta.spl",
+		"/home/jose/Documentos/www/pruebas/sphinx/sphinx.php",
+		"/home/jose/Documentos/www/auladigital/sphinx/secciones.spl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"perfil",
+			"\n        ",
+			"dictaguarani",
+			"_form_informe.php",
+			"mostrarTh",
+			"this->num_rows",
+			"getMultimediaModel",
+			"url",
+			"ejercitario",
+			"URL",
+			"Liberation",
+			"font-fam",
+			"form-inline",
+			"Articulo",
+			"time",
+			"status",
+			"auto_inden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Grupo",
+			"Comentario"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"funcion",
+				"php/funciones.php"
+			],
+			[
+				"aplica",
+				"php/clases/aplicacion.class.php"
+			],
+			[
+				"eti",
+				"php/clases/etiqueta.class.php"
+			],
+			[
+				"mult",
+				"php/clases/multimedia.class.php"
+			],
+			[
+				"func",
+				"php/funciones.php"
+			],
+			[
+				"calen",
+				"php/clases/calendario.class.php"
+			],
+			[
+				"secc",
+				"php/clases/seccion.class.php"
+			],
+			[
+				"calenda",
+				"php/clases/calendario.class.php"
+			],
+			[
+				"seccion",
+				"php/clases/seccion.class.php"
+			],
+			[
+				"calendar",
+				"php/clases/calendario.class.php"
+			],
+			[
+				"default.",
+				"adminabc/app/View/Layouts/default.ctp"
+			],
+			[
+				"cal",
+				"adminabc/app/Model/Calendario.php"
+			],
+			[
+				"calendarios",
+				"php/clases/calendario.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
