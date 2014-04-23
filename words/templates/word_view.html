@@ -1,25 +1,13 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Dictaguarani</title>
-</head>
-<body>
-    <header></header>
-    <section>
-        <article>
-            <p>{{ word.word }}</p>
-            <p>{{ word.language }}</p>
-            <p>{{ word.typeword }}</p>
-        </article>
-        <article>
-            <form action="" method="post">
-                {% csrf_token %}
-                {{ form.as_p }}
-                <input type="submit" value="Submit">
-            </form>
-        </article>
-    </section>
-    <footer></footer>
-</body>
-</html>
+{% extends "base_template.html" %}
+
+{% block content%}
+<div class="starter-template">
+    <p>{{ word.word }}</p>
+    <p>{{ word.language }}</p>
+    <p>{{ word.typeword }}</p>
+<article>
+    <!-- COMENTARIOS -->
+    {% include "comments.html" with word=word %}
+</article>
+</div>
+{% endblock %}

@@ -14,4 +14,5 @@ urlpatterns = patterns('',
     url(r'^signup/', 'userprofiles.views.signup', name='signup'),
     url(r'^signin/', 'userprofiles.views.signin', name='signin'),
     url(r'^comments/', include('django.contrib.comments.urls')),
+    url(r'^comments/', include('django_comments.urls')),
 )

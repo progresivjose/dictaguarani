@@ -42,8 +42,10 @@ INSTALLED_APPS = (
     'languages',
     'typewords',
     'userprofiles',
-    'usercomments',
     'django_extensions',
+    'django_comments',
+    'django.contrib.sites',
+    'bootstrap3',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -108,3 +110,5 @@ TEMPLATE_CONTEXT_PROCESSORS = TCP + (
 )
 
 GRAPPELLI_ADMIN_TITLE = 'dictaguarani'
+
+SITE_ID = 1

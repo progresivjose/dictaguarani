@@ -1,0 +1,41 @@
+{% load comments %}
+{% get_comment_form for word as form %}
+<div class="comments jumbotron">
+    <form action="{% comment_form_target %}" method="POST" class="">
+        {% csrf_token %}
+        {% for field in form.visible_fields %}
+        <div class="control-group {{ field.html_name }} {% if field.errors %}error{% endif %}">
+            <label class="control-label">
+                {{ field.label }}{% if field.field.required %} *{% endif %}
+            </label>
+            <div class="form-group">
+                {{ field }}
+                {% if field.errors %}
+                <span class="help-inline">
+                    {{ field.errors.as_text }}
+                </span>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+        {% for field in form.hidden_fields %}
+        {{ field }}
+        {% endfor %}
+        <div class="form-group">
+            <input type="submit" name="submit" value="Comentar"  class="btn btn-primary" />
+        </div>
+    </form>
+    <!-- LIST OF COMMENTS -->
+
+    {% get_comment_list for word as comment_list %}
+    {% for comment in comment_list %}
+    <div class="wrap">
+        <img src="http://davidrhysthomas.co.uk/img/dexter.png" />
+        <time>{{ comment.submit_date }}</time>
+        <div class="comment" data-owner="Dexter">
+            <p>{{ comment.comment }}</p>
+        </div>
+    </div>
+
+    {% endfor %}
+</div>
